@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite the paper below."
+preferred-citation:
+  type: conference-paper
+  title: "Pak3H: Evaluating the Cost of Cultural Mismatch in LLM Alignment with a Human-Contextualized Urdu Benchmark"
+  authors:
+    - family-names: "Hashmat"
+      given-names: "Abdullah"
+    - family-names: "Naseem"
+      given-names: "Usman"
+    - family-names: "Raza"
+      given-names: "Agha Ali"
+  collection-title: "Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing"
+  publisher:
+    name: "Association for Computational Linguistics"
+  conference:
+    name: "EMNLP 2026"
+    address: "Budapest, Hungary"
+  month: 10
+  year: 2026
+  url: "https://aclanthology.org/2026.emnlp-main.883/"
+  start: 20378
+  end: 20394
+  isbn: "979-8-89176-459-0"
+title: "Pak3H: Evaluating the Cost of Cultural Mismatch in LLM Alignment with a Human-Contextualized Urdu Benchmark"
+type: dataset
+authors:
+  - family-names: "Hashmat"
+    given-names: "Abdullah"
+  - family-names: "Naseem"
+    given-names: "Usman"
+  - family-names: "Raza"
+    given-names: "Agha Ali"
+date-released: 2026-10-01
+license: CC-BY-NC-4.0
+repository-code: "https://github.com/Hashmat02/PAK-Alignment"
+repository-artifact: "https://huggingface.co/datasets/Hashmat0202/Pak3H"
+url: "https://aclanthology.org/2026.emnlp-main.883/"
+keywords:
+  - alignment
+  - RLHF
+  - low-resource NLP
+  - Urdu
+  - Pakistan
+  - safety
+  - truthfulness

@@ -1,0 +1,20 @@
+numpy>=1.26
+pandas>=2.0
+tqdm>=4.66
+pyyaml>=6.0
+openai>=1.0
+evaluate>=0.4
+rouge_score>=0.1.2
+nltk>=3.8
+absl-py>=2.0
+datasets>=2.18
+transformers>=4.40
+accelerate>=0.30
+huggingface-hub>=0.22
+safetensors>=0.4
+sentencepiece>=0.2
+tiktoken>=0.6
+torch>=2.1
+alpaca-eval>=0.6
+
+# Optional: install a CUDA-matching PyTorch build separately if needed for GPU runs.
