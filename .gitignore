@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+Evaluations/TruthfulQA/outputs/
+Evaluations/alpaca_eval_results/
+hf_cache/
+*.egg-info/
